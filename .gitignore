@@ -1,3 +1,5 @@
 config.xml
 CMakeLists.txt
 package.xml
+.vscode/
+
